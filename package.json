@@ -1,0 +1,14 @@
+{
+  "name": "graphql-api",
+  "version": "0.0.0",
+  "description": "GraphQL api for random data",
+  "main": "src/api.js",
+  "repository": "https://github.com/IsAmrish/graphql.git",
+  "author": "isamrish <askmaurya48@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-server-express": "^2.17.0",
+    "express": "^4.17.1"
+  }
+}
